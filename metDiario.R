@@ -144,7 +144,7 @@ hydroplot(var, pfreq="seasonal", FUN=mean, stype="default",
 
 
 # Temperature --------
-
+# teste
 var = temp
 
 # plotting (general)
